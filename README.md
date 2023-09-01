@@ -11,5 +11,7 @@ Models
 KNN (K-Nearest Neighbors): A non-parametric, instance-based learning algorithm.
 Random Forest: An ensemble learning method that operates by constructing multiple decision trees.
 CNN (Convolutional Neural Network): A deep learning model primarily used for image processing.
+
+
 Results
 Initial results demonstrate varying performance among the models, with CNNs typically yielding the highest accuracy rates. Comprehensive results and analysis are available in the project documentation.
